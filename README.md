@@ -1,1 +1,1 @@
-# WallpaperManager-Win-CSharp
+# WallpaperManager for Windows
