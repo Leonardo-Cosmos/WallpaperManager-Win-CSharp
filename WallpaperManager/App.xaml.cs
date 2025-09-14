@@ -1,0 +1,15 @@
+﻿/* 2025/9/14 */
+using System.Configuration;
+using System.Data;
+using System.Windows;
+
+namespace WallpaperManager
+{
+    /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary>
+    public partial class App : Application
+    {
+    }
+
+}
